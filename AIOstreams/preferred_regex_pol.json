@@ -1,0 +1,10 @@
+[
+    {
+      "name": "pol1",
+      "pattern": "/^(?=.*\\b(?:-OK|A(?:4O|BM|FO|L3X|MOK|NONiM|PPGRoup|S76|ZQ|dL|lusia)|B(?:2RPL|89|EBLU|ODZiO|P007|RX|iDA|iRD|RY)|C(?:AMBiO|HOPiN|MCT|RU|ZRG|hrisVPS|iNEMAET|inemaPolish|oLO|ODER|X)|D(?:ENDA|EMAND|ReaM|SiTE|VDSEED|YZIO|ZiDEK|eiX)|E(?:MiS|Team|speranza|nTeR1973)|F(?:ARNA|LAME|PL|eld|ileTracker|lipu|OX|T)|G(?:HW|LiMMER|R4PE|UN|amer158|arRipzone|hN|ameToonHD)|H(?:3Q|DBEE|EN|MDb|T)|Izyk|J(?:25|60|ASKIER|aphson)|K(?:041|12|37|83?|DE|IFR|PFR|RT|SQ|amil11124|buso|iKO|iT|ilKr|LiO)|L(?:EX|LO|LA|TN|TS|iMiT|ysol1)|M(?:56|80|AXiM|AXX|iNS|ORS|R1?|ixio)|N(?:0B0DY|0L4|INE|N|itroTeam|o(?:Group|Grp|NaNo|Q))|O(?:DiSON|XYGEN|ldT|zW)|P(?:IO|IXELPOLICE|LHD|SOTNIK|SiG|TRG|TTrG|dlG|iratesZone|roPLTV|2P|IXI)|R(?:22|2D2|68|X|alf|etro[-_. ]Ekipa|obSil|AVoD)|S(?:56|K13|LiM|YRIX|nOoP|pee?dboy|tarLordX?)|T(?:FSH|iTaNiUM|oP2P|L)|WiZARDS|X(?:TE|uploaD)|Z(?:LOCiUTKi|T|et)|alE13|azjatycki|d(?:11|evil[-_. ]bad|ok\\.torrek)|e(?:end|lladajarek)|inTGrity|joanna668|kamil445|lufen|m(?:aksim80|arjos83)|p(?:asha|cela|otroks|resa)|raven|s(?:av|pajk85|y5ka)|t(?:aboon1|amir|okar86a)|vase|w(?:asik|osiu)|z(?:yl|yvela)|SLH|TV4TG|WEB4TG|4TL|xmatr1x|K|wzrtyk|blake)\\b).*/"
+    },
+    {
+      "name": "pol2",
+      "pattern": "/^(?=.*(?:[ąćęłńśźżĄĆĘŁŃŚŹŻ]|\\b(?:3d11|agusiq|al3x|best-torrents|bigbbs|cool-torents|dabrjarek|devil-torrents|dub(?:bpl|pl|bingpl)|ekipa[-_. ]tnt|electro-torrent|ex-torrenty|fiona9|kolekcja|lektor(?:pl)?|marcin0313|miniserial|napiproject|napisy(?:pl)?|nicollubin|odc(?:inek)?|paczka|pl(?:[-_. ]1080p[-_. ]web|dub|sub(?:bed)?)?|pol(?:ish(?:torrent\\.top)?|ski|skie[-_. ]torrenty)?|ptt|rekonstrukcja|Rip[-_. ]by[-_. ]RaptCat|sezon|sfpi|shadows-torrents|sharpe|superseed|syntezator|tds|tfsh|toalien|topfilmyfilmweb|torrent(?:maniak|y|leech\\.pl)|vantablack|wersja|wilu(?:75)?|xtorrenty|zbyszek|sub(?:pl|bedpl))\\b)).*/i"
+    }
+]

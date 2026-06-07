@@ -1,0 +1,27 @@
+[
+    {
+        "expression": "library(language(streams, 'Polish')) ? library(language(streams, 'Polish')) : library(streams) ? library(streams) : cached(language(streams, 'Polish')) ? cached(language(streams, 'Polish')) : cached(streams) ? cached(streams) : uncached(language(streams, 'Polish')) ? uncached(language(streams, 'Polish')) : uncached(streams)",
+        "score": 0,
+        "enabled": true
+    },
+    {
+        "expression": "service(cached(streams), 'torbox')",
+        "score": 1,
+        "enabled": false
+    },
+    {
+        "expression": "merge(regexMatched(streams),language(streams, 'Polish'),subtitle(streams, 'Polish'),library(streams),indexer(streams, 'BestTorrents', 'Ext, Polskietorrenty', 'PolskieTorrenty', 'HellTorrents', '.pl'))",
+        "score": 2,
+        "enabled": true
+    },
+    {
+        "expression": "service(cached(streams), 'realdebrid')",
+        "score": 3,
+        "enabled": true
+    },
+    {
+        "expression": "service(streams, 'torbox')",
+        "score": 4,
+        "enabled": true
+    }
+]

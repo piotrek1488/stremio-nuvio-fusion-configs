@@ -1,0 +1,8 @@
+[
+    {
+        "Expression": "service(keyword(streams, 'all', 'web-dl', 'WEB-DL', 'Web-DL', 'web-DL', 'webrip', 'WEBRip', 'WEBRIP', 'Webrip', 'bdrip', 'BDRip', 'BDRIP', 'Bdrip', 'hdrip', 'HDRip', 'HDRIP', 'Hdrip', 'dvdrip', 'DVDRip', 'DVDRIP', 'Dvdrip', 'BluRay.x264', 'Bluray.x264', 'BLURAY.x264', 'BluRay.X264', 'BLURAY.X264', 'HDTV.x264', 'Hdtv.x264', 'hdtv.x264', 'HDTV.X264', 'HDTV.XviD', 'Hdtv.xvid', 'hdtv.xvid', 'HDTV.xvid', 'hdtv.XviD', 'WEB.x264', 'Web.x264', 'web.x264', 'WEB.X264', 'WEB.h264', 'Web.h264', 'web.h264', 'WEB.H264'), 'realdebrid')",
+        "score": 0,
+        "enabled": true
+    }
+]
+

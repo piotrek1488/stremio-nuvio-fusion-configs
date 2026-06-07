@@ -1,0 +1,12 @@
+[
+    {
+        "expression": "(queryType == 'anime.series' or queryType == 'anime.movie') ? intersect(language(streams, 'Japanese'), merge(language(streams, 'Japanese'), language(streams, 'English'), language(streams, 'Polish')), merge(subtitle(streams, 'Polish'), subtitle(streams, 'English'))) : streams",
+        "score": 0,
+        "enabled": true
+    },
+    {
+        "expression": "merge(service(cached(streams), 'realdebrid'), service(streams, 'torbox'))",
+        "score": 0,
+        "enabled": true
+    }
+]

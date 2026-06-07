@@ -1,0 +1,58 @@
+[
+  {
+    "name": "IMDb (IM)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/960px-IMDB_Logo_2016.svg.png"
+  },
+  {
+    "name": "IMDb Alt (IM)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/IMDB_-_SuperTinyIcons.svg/250px-IMDB_-_SuperTinyIcons.svg.png"
+  },
+  {
+    "name": "Rotten Tomatoes Tomatometer (RT)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rotten_Tomatoes.svg/250px-Rotten_Tomatoes.svg.png"
+  },
+  {
+    "name": "Metacritic (MC)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Metacritic_M.png"
+  },
+  {
+    "name": "Letterboxd (LB)",
+    "url": "https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png"
+  },
+  {
+    "name": "Rotten Tomatoes Popcornmeter (PC)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Rotten_Tomatoes_positive_audience.svg/250px-Rotten_Tomatoes_positive_audience.svg.png"
+  },
+  {
+    "name": "TMDb (TM)",
+    "url": "https://raw.githubusercontent.com/piotrek1488/stremio-nuvio-fusion-configs/refs/heads/main/fusion/icons/TMDb.png"
+  },
+  {
+    "name": "TMDb Alt (TM)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tmdb.new.logo.svg/330px-Tmdb.new.logo.svg.png"
+  },
+  {
+    "name": "TMDb Alt Background (TM)",
+    "url": "https://raw.githubusercontent.com/piotrek1488/stremio-nuvio-fusion-configs/refs/heads/main/fusion/icons/TMDB.png"
+  },
+  {
+    "name": "Trakt (TR)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Trakt.tv-favicon.svg/250px-Trakt.tv-favicon.svg.png"
+  },
+  {
+    "name": "Anilist (AN)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AniList_logo.svg/250px-AniList_logo.svg.png"
+  },
+  {
+    "name": "MyAnimeList (MAL)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/MyAnimeList_favicon.svg/250px-MyAnimeList_favicon.svg.png"
+  },
+  {
+    "name": "RogerEbert (RE)",
+    "url": "https://raw.githubusercontent.com/piotrek1488/stremio-nuvio-fusion-configs/refs/heads/main/fusion/icons/Roger_Ebert.png"
+  },
+  {
+    "name": "RogerEbert Alt (RE)",
+    "url": "https://raw.githubusercontent.com/piotrek1488/stremio-nuvio-fusion-configs/refs/heads/main/fusion/icons/RogerEbert.png"
+  }
+]
